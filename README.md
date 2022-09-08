@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @enonch
-- 👀 I’m interested in web development
-- 🌱 I’m currently studying Colt Steele's Web Developer Bootcamp on Udemy
-- 📫 You can reach me on twitter -> @Wannabe.Dev
+- 👀 I’m interested in iOS Development
+- 🌱 I’m currently studying Angela Yu's iOS 13 App Development Bootcamp on Udemy
 
 <!---
 enonch/enonch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
